@@ -1,3 +1,4 @@
+<img width="213" height="236" alt="images" src="https://github.com/user-attachments/assets/58ef41d2-0a7b-437f-b080-c5ef46ea8d49" />
 <div align="center">
 
 # I messed up, I'm sorry 🥺
@@ -20,7 +21,7 @@ I just really miss my favorite person.
 - Improved listening
 - Fixed stupid behavior
 - Added genuine apology
-
+- Learned many things
 ---
 
 ## Known Bugs
@@ -35,5 +36,5 @@ I just really miss my favorite person.
 
 No pressure to merge this PR.  
 Just wanted to say sorry properly.
-
+Came to know that can't survive without you 
 </div>
