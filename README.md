@@ -1,4 +1,4 @@
-<img width="1254" height="1254" alt="84cdd7fb-8731-4cae-9814-cce157604ca3" src="https://github.com/user-attachments/assets/8ef6be5b-d93f-4e82-a36b-83d15a2c4837" />
+<img width="900" height="900" alt="84cdd7fb-8731-4cae-9814-cce157604ca3" src="https://github.com/user-attachments/assets/8ef6be5b-d93f-4e82-a36b-83d15a2c4837" />
 <div align="center">
 
 # 🌸 I messed up, I’m sorry 🥺
@@ -44,7 +44,7 @@ I just really miss my favorite person.
 
 No pressure to merge this PR.  
 Just wanted to say sorry properly.
-
+Pls thirumba enta vaa😭
 <br>
 
 ```bash
