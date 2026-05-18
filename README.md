@@ -1,30 +1,37 @@
-<img width="213" height="236" alt="images" src="https://github.com/user-attachments/assets/58ef41d2-0a7b-437f-b080-c5ef46ea8d49" />
 <div align="center">
 
-# I messed up, I'm sorry 🥺
+# 🌸 I messed up, I’m sorry 🥺
 
-<img src="https://media.tenor.com/qIR0JXOEfVAAAAAM/cat-crying.gif" width="250"/>
+<br>
 
-### Seriously, I am an idiot.
+<img src="https://media.tenor.com/8M6Yk8b2P7AAAAAM/cute-cat.gif" width="280"/>
 
-I can't believe I hurt you like that.  
+<br><br>
+
+## Seriously, I am an idiot.
+
+I can’t believe I hurt you like that.  
 It sucks not talking to you.
+
+<br>
 
 You mean everything to me.  
 I just really miss my favorite person.
 
 ---
 
-## Changes Made
+# ✨ Changes Made
 
-- Removed ego
-- Improved listening
-- Fixed stupid behavior
-- Added genuine apology
-- Learned many things
+| ✅ Fixed | Status |
+|---|---|
+| Removed ego | Done |
+| Improved listening | Done |
+| Fixed stupid behavior | Done |
+| Added genuine apology | Done |
+
 ---
 
-## Known Bugs
+# 🐞 Known Bugs
 
 - Still misses you
 - Overthinks at 2 AM
@@ -32,9 +39,17 @@ I just really miss my favorite person.
 
 ---
 
-## Reviewer Notes
+# 💌 Reviewer Notes
 
 No pressure to merge this PR.  
 Just wanted to say sorry properly.
-Came to know that can't survive without you 
+
+<br>
+
+```bash
+commit -m "final apology patch"
+branch: fix/my-behavior
+status: hoping_for_one_more_chance
+```
+
 </div>
